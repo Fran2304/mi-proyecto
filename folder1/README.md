@@ -11,4 +11,4 @@ Este módulo implementa [explicación de funcionalidad A].
 
 ## Uso
 
-1. Navega a esta carpeta:
+[⬅ Volver al README principal](../README.md)
